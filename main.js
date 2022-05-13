@@ -32,18 +32,17 @@ if (window.innerWidth < 1024) {
 
 function refresh() {
   setTimeout(function () {
-    // window.location.reload(true);
     location.href = "/";
   }, 200);
 }
 
-window.addEventListener("resize", () => {
-  let widthOutput = window.innerWidth;
+// window.addEventListener("resize", () => {
+//   let widthOutput = window.innerWidth;
 
-  if (widthOutput < 1040) {
-    refresh();
-  }
-});
+//   if (widthOutput < 1040) {
+//     refresh();
+//   }
+// });
 
 // change navbar styles on scroll
 window.addEventListener("scroll", () => {
