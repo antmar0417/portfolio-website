@@ -36,14 +36,6 @@ function refresh() {
   }, 200);
 }
 
-// window.addEventListener("resize", () => {
-//   let widthOutput = window.innerWidth;
-
-//   if (widthOutput < 1040) {
-//     refresh();
-//   }
-// });
-
 // change navbar styles on scroll
 window.addEventListener("scroll", () => {
   document
