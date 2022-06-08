@@ -1,27 +1,16 @@
 const testimonials = [
-    {
-        quote: "our company, we do ongoing research with our target audience. This includes 30-45 minute phone interviews. It was difficult to conduct the interview, really listen, and ask good follow up questions.",
-        avatar: "avatar1",
-        name: "Diana Ayi",
-        title: "Musician"
-    },
-    {
-        quote: "our company, we do ongoing research with our target audience. This includes 30-45 minute phone interviews. It was difficult to conduct the interview, really listen, and ask good follow up questions.",
-        avatar: "avatar2",
-        name: "Ernest Achiever",
-        title: "Web Developer"
-    },
-    {
-        quote: "our company, we do ongoing research with our target audience. This includes 30-45 minute phone interviews. It was difficult to conduct the interview, really listen, and ask good follow up questions.",
-        avatar: "avatar3",
-        name: "Asamoah Gyan",
-        title: "Footerballer"
-    },
-    {
-        quote: "our company, we do ongoing research with our target audience. This includes 30-45 minute phone interviews. It was difficult to conduct the interview, really listen, and ask good follow up questions.",
-        avatar: "avatar4",
-        name: "Beatrice Aku",
-        title: "Politician"
-    }
-
-]
+  {
+    quote:
+      "Anton is a wonderful classmate who works and contributes extremely well in a group. He is always positive and happy to share his thoughts/ideas. Also a good communicator and communicates his solutions in a simple and understandable way.",
+    avatar: "avatar-marcus",
+    name: "Marcus Hägerstrand",
+    title: "Web Developer",
+  },
+  {
+    quote:
+      "Anton is a kind, ambitious, and organized person who always puts others first. For him, problems are not just challenges, he never backs down, and even in the tough times, he manages to find new opportunities.",
+    avatar: "avatar-natasha",
+    name: "Natasha Petsurova",
+    title: "Local Manager",
+  },
+];
