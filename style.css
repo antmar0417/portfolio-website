@@ -383,7 +383,7 @@ section#services {
   gap: 1rem;
 }
 
-.portfolio__project-image {
+.portfolio_project_image {
   height: 20rem;
   display: block;
   border: 1rem solid var(--color-white);
@@ -392,11 +392,11 @@ section#services {
   transition: all 400ms ease;
 }
 
-.portfolio__project-image:hover {
+.portfolio_project_image:hover {
   box-shadow: none;
 }
 
-.portfolio__project-image img {
+.portfolio_project_image img {
   transform: 0;
   transition: all 12s ease;
 }
@@ -407,7 +407,7 @@ section#services {
 }
 
 /* 18rem because project image height is 20rem + 1rem of border top and bottom */
-.portfolio__project-image:hover img {
+.portfolio_project_image:hover img {
   transform: translateY(calc(-100% + 18rem));
 }
 
